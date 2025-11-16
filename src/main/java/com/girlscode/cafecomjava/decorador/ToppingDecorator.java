@@ -1,6 +1,6 @@
 package com.girlscode.cafecomjava.decorador;
 
-import com.girlscode.cafecomjava.core.Bebidas;
+import com.girlscode.cafecomjava.core.Bebida;
 
-public abstract class ToppingDecorator implements Bebidas {
+public abstract class ToppingDecorator implements Bebida {
 }
