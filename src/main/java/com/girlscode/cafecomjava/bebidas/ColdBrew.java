@@ -5,7 +5,7 @@ import com.girlscode.cafecomjava.core.Bebida;
 public class ColdBrew implements Bebida {
     @Override
     public double getCusto() {
-        return 6.00;
+        return 8.00;
     }
 
     @Override
