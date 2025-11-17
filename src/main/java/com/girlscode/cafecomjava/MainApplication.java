@@ -9,17 +9,13 @@ import com.girlscode.cafecomjava.decorador.CaldasDecorator;
 import com.girlscode.cafecomjava.decorador.ChantillyDecorator;
 import com.girlscode.cafecomjava.decorador.LeiteDecorator;
 import com.girlscode.cafecomjava.decorador.XaropesDecorator;
-import org.springframework.boot.SpringApplication;
-import org.springframework.boot.autoconfigure.SpringBootApplication;
+
 
 import java.util.Scanner;
 
-@SpringBootApplication
-public class CafeComJavaApplication {
+public class MainApplication {
 
 	public static void main(String[] args) {
-
-        SpringApplication.run(CafeComJavaApplication.class, args);
 
         Scanner scanner = new Scanner(System.in);
         Bebida bebida = null;
