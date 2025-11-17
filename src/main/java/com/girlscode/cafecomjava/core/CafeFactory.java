@@ -1,5 +1,5 @@
 package com.girlscode.cafecomjava.core;
 
-public interface ICafeFactory {
+public interface CafeFactory {
     Bebida createBebida();
 }

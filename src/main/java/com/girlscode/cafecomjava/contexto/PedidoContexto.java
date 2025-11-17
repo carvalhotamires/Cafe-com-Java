@@ -8,4 +8,11 @@ public class PedidoContexto {
     public void setStrategy(DescontoStrategy strategy) {
         this.descontoStrategy = strategy;
     }
+
+    public double processarDesconto(double valorTotal) throws IllegalAccessException {
+        if(descontoStrategy == null) {
+            throw new IllegalAccessException("Nenhuma estratégia de desconto foi definida.");
+        }
+        return descontoStrategy.aplicarDesconto(valorTotal);
+    }
 }
