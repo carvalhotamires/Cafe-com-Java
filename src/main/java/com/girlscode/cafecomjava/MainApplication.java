@@ -1,9 +1,5 @@
 package com.girlscode.cafecomjava;
 
-import com.girlscode.cafecomjava.bebidas.CafeDescafeinado;
-import com.girlscode.cafecomjava.bebidas.CafeExpresso;
-import com.girlscode.cafecomjava.bebidas.CafeFiltrado;
-import com.girlscode.cafecomjava.bebidas.ColdBrew;
 import com.girlscode.cafecomjava.contexto.PedidoContexto;
 import com.girlscode.cafecomjava.core.Bebida;
 import com.girlscode.cafecomjava.core.CafeFactory;
