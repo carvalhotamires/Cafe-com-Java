@@ -27,7 +27,7 @@ public class MainApplication {
 
         System.out.println("--- Bem vindo ao Café com Java ---");
 
-        System.out.println("Escolha a sua bebida base: ");
+        System.out.println("\nEscolha a sua bebida base: ");
         System.out.println("1 - Café Expresso (R$ 5.00)");
         System.out.println("2 - Café Filtrado (R$ 4.00)");
         System.out.println("3 - Café Descafeinado (R$ 7.50)");
@@ -59,13 +59,13 @@ public class MainApplication {
         }
 
         bebida = factory.createBebida();
-        System.out.println("Base escolhida: " + bebida.getDescricao());
+        System.out.println("\nBase escolhida: " + bebida.getDescricao());
 
         int toppingChoice = 0;
         
         while (toppingChoice != 5) {
 
-            System.out.println("Adicione Toppings na sua bebiba:");
+            System.out.println("\nAdicione Toppings na sua bebiba:");
 
             System.out.println("1 - Leite (R$ 2.50)");
             System.out.println("2 - Chantilly (R$ 3.00)");
@@ -112,7 +112,7 @@ public class MainApplication {
 
         double custoTotalDecorado = bebida.getCusto();
 
-        System.out.println("-------------------------------------------------------------------------");
+        System.out.println("\n-------------------------------------------------------------------------");
         System.out.println("Pedido Finalizado com sucesso!");
         System.out.println("Descrição completa: " + bebida.getDescricao());
         System.out.println("Custo Total: R$ " + String.format("%.2f", bebida.getCusto()));
