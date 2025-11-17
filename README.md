@@ -80,8 +80,10 @@ Escolha a sua bebida base:
 2 - Café Filtrado (R$ 4.00)
 3 - Café Descafeinado (R$ 7.50)
 4 - ColdBrew (R$ 8.00)
-Sua escolha: 1
-Base escolhida: Cafe Expresso
+Sua escolha: 2
+
+Base escolhida: Café Filtrado
+
 Adicione Toppings na sua bebiba:
 1 - Leite (R$ 2.50)
 2 - Chantilly (R$ 3.00)
@@ -89,7 +91,17 @@ Adicione Toppings na sua bebiba:
 4 - Xarope (R$ 5.00)
 5 - Finalizar pedido
 Opção: 1
-Cafe Expresso com Leite
+Café Filtrado com Leite
+
+Adicione Toppings na sua bebiba:
+1 - Leite (R$ 2.50)
+2 - Chantilly (R$ 3.00)
+3 - Calda (R$ 3.50)
+4 - Xarope (R$ 5.00)
+5 - Finalizar pedido
+Opção: 3
+Café Filtrado com Leite + calda
+
 Adicione Toppings na sua bebiba:
 1 - Leite (R$ 2.50)
 2 - Chantilly (R$ 3.00)
@@ -97,15 +109,8 @@ Adicione Toppings na sua bebiba:
 4 - Xarope (R$ 5.00)
 5 - Finalizar pedido
 Opção: 2
-Cafe Expresso com Leite + Chantilly
-Adicione Toppings na sua bebiba:
-1 - Leite (R$ 2.50)
-2 - Chantilly (R$ 3.00)
-3 - Calda (R$ 3.50)
-4 - Xarope (R$ 5.00)
-5 - Finalizar pedido
-Opção: 4
-Cafe Expresso com Leite + Chantilly + Xarope
+Café Filtrado com Leite + calda + Chantilly
+
 Adicione Toppings na sua bebiba:
 1 - Leite (R$ 2.50)
 2 - Chantilly (R$ 3.00)
@@ -114,11 +119,12 @@ Adicione Toppings na sua bebiba:
 5 - Finalizar pedido
 Opção: 5
 Finalizando pedido.
+
 -------------------------------------------------------------------------
 Pedido Finalizado com sucesso!
-Descrição completa: Cafe Expresso com Leite + Chantilly + Xarope
-Custo Total: R$ 15,50
+Descrição completa: Café Filtrado com Leite + calda + Chantilly
+Custo Total: R$ 13,00
 Você é cliente membro? (S/N)? S
 -10% na sua conta. Desconto de Membro aplicado com sucesso!
-Custo Final: R$ 13,95
+Custo Final: R$ 11,70
 -------------------------------------------------------------------------
