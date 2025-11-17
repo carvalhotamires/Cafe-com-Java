@@ -106,7 +106,7 @@ public class MainApplication {
             
         }
 
-        System.out.println("---------------------------------------------------------------------------");
+        System.out.println("-------------------------------------------------------------------------");
         System.out.println("Pedido Finalizado com sucesso!");
         System.out.println("Descrição completa: " + bebida.getDescricao());
         System.out.println("Custo Total: R$ " + String.format("%.2f", bebida.getCusto()));
