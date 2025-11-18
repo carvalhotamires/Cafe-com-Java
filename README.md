@@ -12,6 +12,7 @@ O projeto foi desenvolvido por:
 
 * **Lanusse Silveira**
 * **Lucivânia Ramiro**
+* **Messias Guedes**
 * **Tamires Carvalho**
 
 ---
